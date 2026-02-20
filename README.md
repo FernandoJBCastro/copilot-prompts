@@ -160,9 +160,9 @@ O segundo agente recebe as informações coletadas e gera:
 
 
 
-Agent 1 → Descobre perfil  
+Agent 1 → Descobre perfil
 
-Agent 2 → Constrói plano personalizado  
+Agent 2 → Constrói plano personalizado
 
 
 

@@ -80,7 +80,7 @@ Após receber as 3 opções:
 
 
 
-Não escolha apenas por “moda” ou “mercado”.  
+Não escolha apenas por “moda” ou “mercado”.
 
 Escolha pelo que você se vê fazendo todos os dias.
 
@@ -98,17 +98,17 @@ Depois de escolher, o planejador de carreira irá gerar:
 
 
 
-✅ Como é o dia a dia da profissão  
+✅ Como é o dia a dia da profissão
 
-✅ Mapa de habilidades necessárias  
+✅ Mapa de habilidades necessárias
 
-✅ Roadmap estruturado de 90 dias  
+✅ Roadmap estruturado de 90 dias
 
-✅ Projeto prático para portfólio  
+✅ Projeto prático para portfólio
 
-✅ Perguntas comuns de entrevista  
+✅ Perguntas comuns de entrevista
 
-✅ Trilha recomendada de estudos  
+✅ Trilha recomendada de estudos
 
 
 
